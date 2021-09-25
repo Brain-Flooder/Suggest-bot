@@ -1,13 +1,14 @@
 [tool.poetry]
-name = "discordpy-bot-template-with-commands-extension"
-version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+name = "Mod Contact"
+version = "1.0.0"
+description = "A Bot that send suggest"
+authors = ["Brain Flooder#9985 <BrainFlooder@protonmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
 "discord.py" = "^1.7.3"
 Flask = "^2.0.1"
+discord-py-interactions = "^3.0.2"
 
 [tool.poetry.dev-dependencies]
 
